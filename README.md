@@ -1,6 +1,5 @@
-[Repo]()
+## 1. ¿Hubo alguna aplicación o caso de uso de los LLMs que le llamó más la atención? ¿Por qué?
+Search grounding es un concepto relativamente interesante. Del lado técnico no me es de mucho interes IA ni Machine Learning pero es interesante ver las diferencias entre parametros y modalidades de funcionamiento. eg. el search grounding o algo tan simple como la temperatura y pensar como un parametro único puede llegar a influenciar todo el output de un LLM.
 
-1. ¿Hubo alguna aplicación o caso de uso de los LLMs que le llamó más la atención? ¿Por qué?
-
-2. Proponga un caso de ciberseguridad que considere se puede solucionar mediante un LLM y describa de forma general cómo lo resolvería.
+## 2. Proponga un caso de ciberseguridad que considere se puede solucionar mediante un LLM y describa de forma general cómo lo resolvería.
 Totalmente por LLM no estoy seguro. Creo que puede dar punteros e ideas de por donde puede haber vulnerabilidades pero como tal solucionar el caso no hay un escenario concreto donde creo que sea 100% útil. Puede ayudar a analizar e identificar datos fuera de lo usual pero en bajo volumen, por lo que tal vez sea util como ultima capa de analisis / resumen para el humano.
